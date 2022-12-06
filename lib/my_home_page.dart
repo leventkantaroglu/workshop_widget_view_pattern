@@ -20,6 +20,7 @@ class _MyHomePageController extends State<MyHomePage> {
     });
   }
 
+  @override
   Widget build(BuildContext context) {
     return _MyHomePageView(this);
   }
